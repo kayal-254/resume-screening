@@ -1,0 +1,13 @@
+.env
+__pycache__/
+instance/
+uploads/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+ENV/
+.idea/
+.vscode/
